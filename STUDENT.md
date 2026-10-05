@@ -6,7 +6,7 @@
 - Wersja Git: 2.53.0
 - Wersja kompilatora C++: 15.2.0
 - Wersje java i javac: 17.0.20.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): [link](https://github.com/bgrzes/oop-lab00-bgrzes/pull/2)
+- Link do pierwszego PR (uzupełnij w zadaniu 5): [link](https://github.com/bgrzes/oop-lab00-bgrzes/pull/1)
 
 ## Uruchomienie lokalne
 Wynik programu C++:
