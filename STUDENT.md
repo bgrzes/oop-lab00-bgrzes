@@ -21,7 +21,7 @@ Hello from Java! Author: bgrzes
 ## Błąd i poprawka (zadanie 5)
 - Krótki fragment komunikatu błędu i numer linii: numer linii: 5,  error: expected ‘;’ before ‘return’
 - Przyczyna oraz sposób naprawy: wstawienie brakującego średnika
-- Commit z błędem (SHA lub link): [link](https://github.com/bgrzes/oop-lab00-bgrzes/actions/runs/37363370033)
+- Commit z błędem (SHA lub link): [link](https://github.com/bgrzes/oop-lab00-bgrzes/commit/c8beee14138bb28ac1360494a1a3aaf3c736f042)
 - Czy Actions pokazały błąd, a po naprawie sukces? tak
 
 ## Krótkie odpowiedzi
